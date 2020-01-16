@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.esteettomyyssimulaattori_liike.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\PTSi\\Esteettomyyssimulaattori_liike\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Esteettomyyssimulaattori_liike [Testing]"
+        }
+      }
+    }
+  ]
+}
